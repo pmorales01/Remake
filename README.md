@@ -1,9 +1,25 @@
-# Team Members 
+# Getting Started 
 
-* Jasen Castillo
+Clone the repository 
 
-* Jose Gutierrez
+```
+https://github.com/pmorales01/Remake.git
+```
 
-* Pedro Morales 
+Install Dependencies 
 
-* Umar Nasir
+```
+npm install
+```
+
+Run create-dot-remake.js to Start A New Session At localhost 3000
+
+```
+node create-dot-remake.js
+```
+
+Start the Server 
+
+```
+npm start
+```
