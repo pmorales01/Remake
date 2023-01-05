@@ -3,7 +3,7 @@
 Clone the repository 
 
 ```
-https://github.com/pmorales01/Remake.git
+git clone https://github.com/pmorales01/Remake.git
 ```
 
 Install Dependencies 
